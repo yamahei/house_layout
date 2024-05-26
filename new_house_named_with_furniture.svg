@@ -43,9 +43,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="361"
-     inkscape:cy="282.5"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="431.33513"
+     inkscape:cy="278.24651"
      inkscape:document-units="mm"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -1337,21 +1337,36 @@
      id="layer5"
      inkscape:label="switches"
      transform="translate(-6.1100636,-80.958649)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
-       style="fill:none;stroke:#ff00ff;stroke-width:0.66003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff00ff;stroke-width:0.487753;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3164"
        width="1.3124801"
-       height="3.5121968"
-       x="156.11606"
-       y="124.66924" />
+       height="1.918012"
+       x="156.18221"
+       y="126.19728" />
     <rect
-       style="fill:none;stroke:#ff00ff;stroke-width:0.610232;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff00ff;stroke-width:0.507901;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3164-3"
+       width="1.1768794"
+       height="2.3193591"
+       x="160.65157"
+       y="179.85898" />
+    <rect
+       style="display:inline;fill:none;stroke:#ff00ff;stroke-width:0.475424;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3164-3-2"
+       width="1.2093557"
+       height="1.977658"
+       x="216.73305"
+       y="153.03751" />
+    <rect
+       style="display:inline;fill:none;stroke:#ff00ff;stroke-width:0.465522;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3164-3-9"
        width="1.074548"
-       height="3.6669648"
-       x="160.70273"
-       y="179.91014" />
+       height="2.1340096"
+       x="157.1129"
+       y="181.29901" />
     <rect
        style="fill:none;stroke:#ff00ff;stroke-width:0.631606;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3164-3-3"
@@ -1360,12 +1375,34 @@
        x="59.238167"
        y="179.14867" />
     <rect
-       style="fill:none;stroke:#ff00ff;stroke-width:0.539576;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;stroke:#ff00ff;stroke-width:0.483885;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3164-3-3-6"
+       width="1.3495879"
+       height="1.8358032"
+       x="62.489021"
+       y="120.77767" />
+    <rect
+       style="display:inline;fill:none;stroke:#ff00ff;stroke-width:0.483885;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3164-3-3-6-3"
+       width="1.3495879"
+       height="1.8358032"
+       x="76.905838"
+       y="122.47329" />
+    <rect
+       style="display:inline;fill:none;stroke:#ff00ff;stroke-width:0.483885;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3164-3-3-6-3-8"
+       width="1.3495879"
+       height="1.8358032"
+       x="135.70248"
+       y="-117.8345"
+       transform="rotate(90)" />
+    <rect
+       style="fill:none;stroke:#ff00ff;stroke-width:0.41443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3164-3-35"
-       width="0.8771441"
-       height="3.5121968"
-       x="-135.40102"
-       y="207.90129"
+       width="1.0022905"
+       height="1.8132286"
+       x="-135.46359"
+       y="207.83871"
        transform="rotate(-90)" />
   </g>
   <g
